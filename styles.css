@@ -1,0 +1,15 @@
+body
+{
+ margin: 0;
+ text-align: center;
+ font: 13px Tahoma, Geneva, sans-serif;
+ background: black;
+ color: grey;
+}
+
+@font-face {
+  font-family: emulogic;
+  src: url("./fonts/emulogic.ttf");
+  font-weight: 800;
+  font-style: normal;
+}
